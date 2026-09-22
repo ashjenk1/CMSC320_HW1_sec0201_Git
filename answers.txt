@@ -1,2 +1,4 @@
 Q: Why might we consider using Git?
-A: Git allows us to track and save any changes that we make to our projects. IT tracks the changes and history made to the code without needing any type of internet connection. 
+A: Git allows us to track and save any changes that we make to our projects. It tracks the changes and history made to the code without needing any type of internet connection. 
+Q: What field could data science be applied to?
+A: Data science can be applied to any field. In retail, data science can be used to decide which user feature to implement to drive sales and traffic to websites

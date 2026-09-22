@@ -1,0 +1,2 @@
+Q: What field could data science be applied to?
+A: Data science can be applied to any field. In retail, data science can be used to decide which user feature to implement to drive sales and traffic to websites

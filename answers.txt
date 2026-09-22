@@ -5,4 +5,4 @@ A: Data science can be applied to any field. In retail, data science can be used
 Q: What is the difference between Merging and Rebasing?
 A: merging combines two branches and the content within the branches. Rebasing gets the commits made on the branch and puts them ontop of another branch so the history is linear instead of two seperate merges 
 Q: What are you looking foreward to this semester
-A: learning more about data science and 
+A: learning more about data science and python
